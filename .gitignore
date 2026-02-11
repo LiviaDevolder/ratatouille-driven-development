@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (caso use no projeto que integrar)
+node_modules/
+.env
+.env.local
+
+# Output dos agentes (descomente se quiser ignorar)
+# docs/stories/*.md
+# docs/plans/*.md
