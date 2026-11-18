@@ -74,7 +74,7 @@ Requisito vago do cliente
 
 Criado por **Lívia Devolder** como material de apoio da palestra **"Ratatouille Driven Development: Cozinhando com requisitos vagos e falta de tempo"**.
 
-🎤 [Slides](https://drive.google.com/file/d/1rYeNAscJD3wj__3nbQSp3f0n20d57Qao/view?usp=share_link) · 💼 [LinkedIn](https://www.linkedin.com/in/liviadevolder/) · 🐙 [GitHub](https://github.com/LiviaDevolder)
+🎤 [Slides](https://drive.google.com/file/d/1rYeNAscJD3wj__3nbQSp3f0n20d57Qao/view?usp=share_link) · 🎥 [Gravação da palestra](https://drive.google.com/file/d/1rz51-3IKoJPv69STCVJ_vNKiQitTl2a6/view?usp=share_link) · 💼 [LinkedIn](https://www.linkedin.com/in/liviadevolder/) · 🐙 [GitHub](https://github.com/LiviaDevolder)
 
 ---
 
